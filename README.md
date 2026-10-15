@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://haddani-abdu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-haddani--abdu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/abderazak-haddani"><img src="https://img.shields.io/badge/LinkedIn-abderazak--haddani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/abderazak-haddani-042b37245"><img src="https://img.shields.io/badge/LinkedIn-abderazak--haddani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Based_in-Vannes%2C_France-2F81F7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open_to-6--month_internship_·_2027-2EA043?style=for-the-badge" alt="Open to internship" />
 </p>
