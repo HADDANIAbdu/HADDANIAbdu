@@ -32,15 +32,20 @@ looking_for: 6-month Full Stack / Software Engineering internship starting 2027
 Every tool below is one I have actually used in a project. Each stage of the pipeline is where it lives.
 
 ```mermaid
-flowchart LR
-    A["🧭 Plan<br/>Agile Scrum · Jira"] --> B["💻 Code<br/>Java · TypeScript · Python"]
-    B --> C["🔍 Analyze<br/>SonarQube SAST · OWASP ASVS"]
-    C --> D["🧪 Test<br/>JUnit · code review"]
-    D --> E["📦 Build<br/>Maven · Docker"]
-    E --> F["⚙️ CI/CD<br/>GitLab CI · Jenkins"]
-    F --> G["☁️ Provision<br/>Terraform · Ansible"]
-    G --> H["🚀 Run<br/>Kubernetes · Azure · Vercel"]
-    H -.feedback.-> A
+flowchart TB
+    subgraph DEV["🔐 Build it secure"]
+        direction LR
+        A["🧭 Plan<br/>Agile Scrum · Jira"] --> B["💻 Code<br/>Java · TypeScript · Python"]
+        B --> C["🔍 Analyze<br/>SonarQube SAST · OWASP ASVS"]
+        C --> D["🧪 Test<br/>JUnit · code review"]
+    end
+    subgraph OPS["🚀 Ship it reliably"]
+        direction LR
+        E["📦 Build<br/>Maven · Docker"] --> F["⚙️ CI/CD<br/>GitLab CI · Jenkins"]
+        F --> G["☁️ Provision<br/>Terraform · Ansible"]
+        G --> H["🌍 Run<br/>Kubernetes · Azure · Vercel"]
+    end
+    DEV --> OPS
 ```
 
 ---
