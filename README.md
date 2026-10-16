@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Abderazak+Haddani+%F0%9F%91%8B;Software+%26+Cybersecurity+Engineering+Student;Full+Stack+Developer+%7C+Java+%C2%B7+TypeScript;Building+secure+apps%2C+from+commit+to+cloud" alt="Typing intro" />
 
 <p>
-  <a href="https://abderazakhaddani.com/"><img src="https://img.shields.io/badge/Portfolio-haddani--abdu.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abderazakhaddani.com/"><img src="https://img.shields.io/badge/Portfolio-abderazakhaddani.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/abderazak-haddani-042b37245"><img src="https://img.shields.io/badge/LinkedIn-abderazak--haddani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Based_in-Vannes%2C_France-2F81F7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open_to-6--month_internship_·_2027-2EA043?style=for-the-badge" alt="Open to internship" />
